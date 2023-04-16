@@ -52,6 +52,6 @@ Ayesha Saeed    - - saeedayesha408@gmail.com
 
 Maheerah Khalid - - maheerahkhalid1086@gmail.com 
 
-Rabia Batool    - -
+Rabia Batool    - - rabiabatool455@gmail.com
 
 Project Link: https://github.com/ayesha-saeed123/A-Bank-Management-System-in-Assembly.git
