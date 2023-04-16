@@ -1,19 +1,6 @@
 # A-Bank-Management-System-in-Assembly
 ## This system offers features like customer account creation, transaction processing and account details. 
 
-## Table of Contents
-1-Introduction
-
-2-Features
-
-3-Built With
-
-4-Getting Started
-* Installation
-* Prerequisites
-
-6-Contributors
-
 ## Introduction
 This system offers a range of features, including account management, transactiontracking, 
 customer profiling, deposit money and update account etc. With these features, this project will 
