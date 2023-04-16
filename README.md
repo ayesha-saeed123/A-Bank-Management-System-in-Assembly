@@ -7,6 +7,7 @@ customer profiling, deposit money and update account etc. With these features, t
 be able to manage customer accounts efficiently, track transaction history accurately, and can 
 create new account. Our bank managementsystem is designed to be user-friendly.
 
+[PROJECT REPORT (1).pdf](https://github.com/ayesha-saeed123/A-Bank-Management-System-in-Assembly/files/11242702/PROJECT.REPORT.1.pdf)
 ## Features
 * Withdraw and Deposit Money:
 The ability to withdraw and deposit money is a critical feature of any bank 
