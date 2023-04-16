@@ -37,7 +37,7 @@ git clone https://github.com/ayesha-saeed123/A-Bank-Management-System-in-Assembl
 
 2-Run emu8086/Microsoft Visual Studio
 
-3-Open bank.asm or admin.asm in the emulator
+3-Open .asm file in the emulator
 
 4-Change filename to "..\..\complete-path-to-users.txt"
 
