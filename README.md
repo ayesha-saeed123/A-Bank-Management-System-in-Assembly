@@ -15,4 +15,4 @@ In addition to creating new accounts, a bank management system must also allow f
 the updating of existing accounts. This feature is necessaryto ensure that customer
 account details are up-to-date and accurate.
 ###### Store Data of All Accounts:
-This feature allows banks to maintain accurate records of all customeraccounts.
+This feature allows banks to maintain accurate records of all customer accounts.
