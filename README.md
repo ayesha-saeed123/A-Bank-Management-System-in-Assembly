@@ -50,7 +50,7 @@ git clone https://github.com/ayesha-saeed123/A-Bank-Management-System-in-Assembl
 ## Contributors
 Ayesha Saeed    - - saeedayesha408@gmail.com
 
-Maheerah Khalid - - 
+Maheerah Khalid - - maheerahkhalid1086@gmail.com 
 
 Rabia Batool    - -
 
