@@ -1,6 +1,20 @@
 # A-Bank-Management-System-in-Assembly
 ## This system offers features like customer account creation, transaction processing and account details. 
 
+## Table of Contents
+1-Introduction
+
+2-Features
+
+3-Built With
+
+4-Getting Started
+* Installation
+* Prerequisites
+
+6-Contributors
+
+## Introduction
 This system offers a range of features, including account management, transactiontracking, 
 customer profiling, deposit money and update account etc. With these features, this project will 
 be able to manage customer accounts efficiently, track transaction history accurately, and can 
@@ -32,8 +46,25 @@ To get a local copy up and running follow these simple example steps.
 
 ## Installation
 1-Clone the repo or download zip
-git clone 
-2-Run emu8086
+git clone https://github.com/ayesha-saeed123/A-Bank-Management-System-in-Assembly.git
+
+2-Run emu8086/Microsoft Visual Studio
+
 3-Open bank.asm or admin.asm in the emulator
+
 4-Change filename to "..\..\complete-path-to-users.txt"
+
 5-Emulate
+
+## Prerequisites
+* emu8086
+* Microsoft Visual Studio
+
+## Contributors
+Ayesha Saeed    - - saeedayesha408@gmail.com
+
+Maheerah Khalid - - 
+
+Rabia Batool    - -
+
+Project Link: https://github.com/ayesha-saeed123/A-Bank-Management-System-in-Assembly.git
