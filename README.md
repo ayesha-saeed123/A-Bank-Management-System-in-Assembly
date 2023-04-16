@@ -11,10 +11,10 @@ create new account. Our bank managementsystem is designed to be user-friendly.
 * Withdraw and Deposit Money:
 The ability to withdraw and deposit money is a critical feature of any bank 
 management system. This feature allows customers to make transactions using 
-their bank accounts, either by depositing money intotheir account or withdrawing
+their bank accounts, either by depositing money into their account or withdrawing
 money from it.
 * Create New Accounts:
-Another essential feature of a bank management system is the ability tocreate new 
+Another essential feature of a bank management system is the ability to create new 
 accounts. This feature allows banks to onboard new customers and open new 
 accounts quickly and easily.
 * Update Existing Accounts:
